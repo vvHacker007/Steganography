@@ -52,3 +52,5 @@ So in this script, the frames were extracted from the video along with the audio
 - shutil
 - ffmpeg
 - subprocess
+
+For more details you can reffer my Blog [here](https://medium.com/@vedanshv2002/steganography-5d9d8a557587?source=friends_link&sk=70ebdf99bbe8322fd25b163e004cbce4)

@@ -39,7 +39,7 @@ lsb.reveal("e_file.png")
 
 ## Video Steganography
 As we know video is a collection of frames, where each frame is a picture.
-So what in this script frames were extracted from the video and the hidden message is embedded in these frames and then they are stitched together and saved into another file named "Embedded_Video.mp4". So to decode the hidden message use the "Embedded_Video.mp4" file.
+So in this script, the frames were extracted from the video along with the audio and the hidden message is embedded in these frames and then they are stitched together and saved into another file named "Embedded_Video.mp4". So to decode the hidden message we use the "Embedded_Video.mp4" file and the script would extract the broken messages from the each frame and then join the string in a list.
 
 
 ## Packages Used

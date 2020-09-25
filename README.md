@@ -1,4 +1,4 @@
-# Steganogrphy📩💻
+# Steganogrphy✍🏻💻
 **Steganography** is the practice of **concealing a file, message, image, or video within another file, message, image, or video**. It has existed for a long time, and nowadays, digital steganography is used to hide data inside images. We can hide all kinds of data by using different digital steganographic methods.
 
 ## Video Steganogrpahy📽
